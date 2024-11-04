@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm King-Hur Wu! I'm a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+
+## About Me
+With a background in chemical engineering, I bring a unique perspective to the programming world. My passion lies in developing software solutions that not only solve problems but create opportunities for those transitioning into tech. 
+
+## Technical Skills
+- Languages: Typscript, Javascript, Python
+- Frameworks & Libraries: React, Next.js Node.js
+- Tools & Platforms: Github, Docker, AWS, Vercel
+
 
 <!--
 **king-hur/king-hur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
